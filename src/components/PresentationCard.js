@@ -98,7 +98,7 @@ function PresentationCard(props) {
                 </Card>}
 
               <Typography variant="subtitle1" color="textSecondary" gutterBottom style={{ marginTop: 30 }}>
-                I am a Master student in Computer Science and Communication at <StyledLink target='_blank' href="https://www.epfl.ch/">EPFL</StyledLink> currently working at Unity Labs under the supervision of <StyledLink target='_blank' href="https://belcour.github.io/blog/">Laurent Belcour</StyledLink>.
+                I am a Double Master Degree student in Computer Science between the <StyledLink target='_blank' href="https://www.uni-passau.de/en/">University of Passau</StyledLink> in Germany and <StyledLink target='_blank' href="https://www.insa-lyon.fr/">INSA Lyon</StyledLink> in France.
                   </Typography>
               <Typography variant="subtitle1" color="textSecondary" gutterBottom>
                 My main research interests are physically-based rendering, signal processing and realtime rendering. In my free time when not programming some toy project I have many hobbies including playing the trumpet, painting miniatures, climbing and bicycle touring.
